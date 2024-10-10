@@ -38,7 +38,7 @@ for (int i = 0; i < input_len; i++) {
 }
 
 int main() {
-char url[] = "https://lms2.cse.saveetha.in";
+char url[] = "https://github.com/Hariharanashok";
 char key[] = "secretkey"; 
 
 printf("Original URL: %s\n", url);
@@ -58,7 +58,9 @@ return 0;
 
 
 
-![Screenshot 2024-10-08 220708](https://github.com/user-attachments/assets/0bee8219-4d06-467a-86b6-185236e1b765)
+![image](https://github.com/user-attachments/assets/7b98ea8d-2370-4fcd-9097-ec3b7328edfb)
+
+
 
 
 ## RESULT: 
