@@ -1,4 +1,5 @@
-# EX-8-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
+# EX-8-IMPLEMENTAT-THE-AES-ENCRYPTION-AND-DECRYPTION
+
 
 ## Aim:
 
@@ -38,7 +39,7 @@ for (int i = 0; i < input_len; i++) {
 }
 
 int main() {
-char url[] = "https://github.com/Hariharanashok";
+char url[] = "HARIHARAN A";
 char key[] = "secretkey"; 
 
 printf("Original URL: %s\n", url);
@@ -58,7 +59,8 @@ return 0;
 
 
 
-![image](https://github.com/user-attachments/assets/7b98ea8d-2370-4fcd-9097-ec3b7328edfb)
+![image](https://github.com/user-attachments/assets/5f8622a9-3d64-4afe-96e8-08d7d1ac3ed9)
+
 
 
 
